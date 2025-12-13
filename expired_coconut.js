@@ -46,5 +46,5 @@ void draw() {
   textSize(48);
   text("expired_coconut", width/2, height/2);
 
-  saveFrame("output/coconut_####.png");
+  //saveFrame("output/coconut_####.png");
 }
