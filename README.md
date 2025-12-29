@@ -1,4 +1,4 @@
-# Wave Grid Animation
+# expired_coconut
 
 Animated wavy grid with overlapping sine and cosine waves.
 
